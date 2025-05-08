@@ -59,7 +59,7 @@ public class PrintingManager : MonoBehaviour {
 		loadingObj.SetActive (true);
 		yield return new WaitForSeconds (1);
 		loadingObj.SetActive (false);
-		Application.CaptureScreenshot(Application.dataPath + "\\ScreenShot.png");
+		ScreenCapture.CaptureScreenshot(Application.dataPath + "\\ScreenShot.png");
 		yield return new WaitForSeconds (1);
 
 		System.Diagnostics.Process.Start("mspaint.exe",Application.dataPath + "\\ScreenShot.png");
@@ -78,7 +78,7 @@ public class PrintingManager : MonoBehaviour {
 		targetRect_02.localRotation = new Quaternion (0,0,0,0);
 		targetRect_02.localScale = new Vector3 (0.39f,0.39f,1);
 
-		Screen.orientation = ScreenOrientation.Landscape;
+		Screen.orientation = ScreenOrientation.LandscapeLeft;
 		Screen.SetResolution (1366,768,true);
 	}
 }
