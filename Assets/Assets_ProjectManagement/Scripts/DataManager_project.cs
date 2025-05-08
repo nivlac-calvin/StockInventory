@@ -137,7 +137,7 @@ public class DataManager_project : MonoBehaviour {
 	void CreateXML_data(string fileName,string _data) 
 	{ 
 		StreamWriter writer; 
-		FileInfo t = new FileInfo(project_FileLocation+"\\"+ fileName + ".xml"); 
+		FileInfo t = new FileInfo(project_FileLocation+"//"+ fileName + ".xml"); 
 		if(!t.Exists) 
 		{ 
 			writer = t.CreateText(); 
@@ -154,7 +154,7 @@ public class DataManager_project : MonoBehaviour {
 
 	string LoadXML_data(string fileName) 
 	{ 
-		StreamReader r = File.OpenText(project_FileLocation+"\\"+ fileName); 
+		StreamReader r = File.OpenText(project_FileLocation+"//"+ fileName); 
 		string _info = r.ReadToEnd(); 
 		r.Close(); 
 		return _info; 

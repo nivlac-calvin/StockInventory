@@ -117,7 +117,7 @@ public class DataContainer_Loader : MonoBehaviour {
 	void CreateXML(string fileName,string _data) 
 	{ 
 		StreamWriter writer; 
-		FileInfo t = new FileInfo(_FileLocation+"\\"+ fileName + ".xml"); 
+		FileInfo t = new FileInfo(_FileLocation+"//"+ fileName + ".xml"); 
 		if(!t.Exists) 
 		{ 
 			writer = t.CreateText(); 
@@ -134,7 +134,7 @@ public class DataContainer_Loader : MonoBehaviour {
 
 	string LoadXML(string fileName) 
 	{ 
-		StreamReader r = File.OpenText(_FileLocation+"\\"+ fileName); 
+		StreamReader r = File.OpenText(_FileLocation+"//"+ fileName); 
 		string _info = r.ReadToEnd(); 
 		r.Close(); 
 		return _info; 

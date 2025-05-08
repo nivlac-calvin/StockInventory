@@ -1,8 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?><ArrayOfClientDataDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><clientDataDetails><clientId_inDB>0000</clientId_inDB><clientAccNo>3000/S06</clientAccNo><clientAddress>S CONTROL ENGINERING SDN BHD ( GST REG NO:001279987712)
-NO 3, JALAN TIAJ 2/9 ,TAMAN INDUSTRI ALAM JAYA,
-42300 BANDAR PUNCAK ALAM .SELANGOR D.E
-TEL:03-6038 6821   FAX:03-6038 7821 
-Email:scontroleng@yahoo.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0001</clientId_inDB><clientAccNo>3000/F01</clientAccNo><clientAddress>FLEXIBLE AUTOMATION SYSTEM SDN BHD 
+﻿<?xml version="1.0" encoding="utf-8"?><ArrayOfClientDataDetails xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><clientDataDetails><clientId_inDB>0000</clientId_inDB><clientAccNo>3000/V04</clientAccNo><clientAddress>VITAL BEAUTY SDN BHD
+LOT NO 5701,JALAN KTM KAMPONG BALAKONG BARU,43200 , SELANGOR DARUL EHSAN
+TEL: 03-89626388  FAX:03-89626389</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0001</clientId_inDB><clientAccNo>3000/F01</clientAccNo><clientAddress>FLEXIBLE AUTOMATION SYSTEM SDN BHD 
 (GST REG NO: 000170524672)
 NO. 60, JALAN USJ 10/1B,
 UEP SUBANG JAYA, 47620 SELANGOR D.E.
@@ -14,7 +12,7 @@ PT 23404A, KG. BARU PEKAN PANGKALAN
 KUNDANG, KUNDANG, 48020 RAWANG, SELANGOR.
 TEL: 03-60345688   FAX: 03-60345686
 EMAIL: tktsdn.bhd@gmail.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0004</clientId_inDB><clientAccNo>3000/P21</clientAccNo><clientAddress>PANASONIC APPLIANCES AIR-CONDITION R&amp;D 
-MALAYSIA SDN BHD ( GST REG NO: 001667637248) 
+MALAYSIA SDN BHD (GST REG NO: 001667637248) 
 LOT 2 PERSIARAN TENGKU AMPUAN,SECTION 21 40300 SHAH ALAM
 SECTION 21 40300 SHAH ALAM
 TEL: 03-58914000  FAX: 03-58914381 </clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0005</clientId_inDB><clientAccNo>3000/D10</clientAccNo><clientAddress> DAV ENGINEERING SDN BHD  ( GST REG NO:00141736345)
@@ -25,15 +23,15 @@ TEL: 03-58914000  FAX: 03-58914381 </clientAddress><clientTerm>30 DAYS</clientTe
 (GST REG NO: 000447680512)
 NO.23, JALAN SUNGAI BATU ENAM 51, TAMAN KLANG UTAMA, 
 42100 KLANG, SELANGOR. TEL: 017-3505889 FAX: 03-32917226 EMAIL: yaptrollyways@hotmail.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0007</clientId_inDB><clientAccNo>3000/D04</clientAccNo><clientAddress>DELLHARD ENGINEERING ENTERPRISE 
-(GST REG NO: 000788922368)
 53, JALAN BP 5/7, BANDAR BUKIT PUCHONG, 47100 PUCHONG, SELANGOR.  TEL: 03-77821318  FAX: 03-77821318   
-EMAIL: dellhardengineering@yahoo.com</clientAddress><clientTerm>60 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0008</clientId_inDB><clientAccNo>3000/H10</clientAccNo><clientAddress>HORIZON BUILT SDN BHD (GST REG NO: 002036826112)
+EMAIL: dellhardengineering@yahoo.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0008</clientId_inDB><clientAccNo>3000/H10</clientAccNo><clientAddress>HORIZON BUILT SDN BHD (GST REG NO: 002036826112)
 NO. 14, JALAN PERINDUSTRIAN BALAKONG 2/3,
 TAMAN PERINDUSTRIAN BALAKONG JAYA 2, 43300 BALAKONG JAYA, SELANGOR. TEL: 03-89482256
-EMAIL: horizonbuilt@yahoo.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0009</clientId_inDB><clientAccNo>3000/P10</clientAccNo><clientAddress>PACIFIC ENGINEERING SDN BHD (REG GST NO: 001149280256)
-LOT. 30, JALAN 223, SECTION 51-A, 
-46100 PETALING JAYA, SELANGOR. 
-TEL: 03-79572588  FAX: 03-79587081  EMAIL: tankk@pecol.com.my</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0010</clientId_inDB><clientAccNo>3000/M20</clientAccNo><clientAddress>MAXRUBBER INDUSTRIES SDN BHD 
+EMAIL: horizonbuilt@yahoo.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0009</clientId_inDB><clientAccNo>3000/P10</clientAccNo><clientAddress>PECOL ENGINEERING SDN BHD (REG GST NO: 001149280256)
+NO. 25, JALAN P4/6, BANDAR TEKNOLOGI KAJANG,
+43500 SEMENYIH, SELANGOR DARUL EHSAN.
+TEL: 03-87235329/30/31/48/41  FAX: 03-87235323  
+EMAIL: tankk@pecol.com.my</clientAddress><clientTerm>60 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0010</clientId_inDB><clientAccNo>3000/M20</clientAccNo><clientAddress>MAXRUBBER INDUSTRIES SDN BHD 
 (GST REG NO: 000279232512)
 LOT. 7109, BATU 5 1/4, JALAN KAPAR, 42100 KLANG, SELANGOR.
 TEL: 03-32917000/6990  FAX: 03-32915888/2805
@@ -45,11 +43,217 @@ TEL: 03-91057510   FAX: 03-91057510  EMAIL:sales.at.one@gmail.com</clientAddress
 (GST REG NO: 000051437568)
 158, JALAN LOKE YEW, 55200 KUALA LUMPUR.
 TEL: 03-92210511  FAX: 03-92222299
-EMAIL: dicksonlim.kl@iasb.com.my</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0014</clientId_inDB><clientAccNo>3000/T18</clientAccNo><clientAddress>TERANG NUSA (MALAYSIA) SDN BHD
+EMAIL: sales.kl@iasb.com.my</clientAddress><clientTerm>60 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0014</clientId_inDB><clientAccNo>3000/T18</clientAccNo><clientAddress>TERANG NUSA (MALAYSIA) SDN BHD
 (GST REG NO: 001932034048)
 NO. 2, JALAN 8, PENGKALAN CHEPA 2 INDUSTRIAL ZONE,
 16100 KOTA BHARU, KELANTAN.
 TEL: 09-7744332   FAX: 09-7745778   EMAIL: umin@terangnusa.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0015</clientId_inDB><clientAccNo>3000/A20</clientAccNo><clientAddress>AVTREND TECHNOLOGY SDN BHD (GST NO: 001603305472)
 NO. 20, JALAN PJU 1A/12, 47200 SUBANG, SELANGOR.
 TEL: 03-78473500  FAX: 03-78473380
-EMAIL: alexyong@avtrendtech.com.my</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails></ArrayOfClientDataDetails>
+EMAIL: alexyong@avtrendtech.com.my</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0016</clientId_inDB><clientAccNo>3000/S36</clientAccNo><clientAddress>SK TECH AUTOMATION (ROC: JM0808384-H)
+NO. 16, JALAN MUTIARA EMAS 2/14,
+TAMAN MOUNT AUSTIN, 81100 JOHOR BAHRU, JOHOR.  TEL: 016-6250551  EMAIL: tsktang78@gmail.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0017</clientId_inDB><clientAccNo>3000/S35</clientAccNo><clientAddress>SONOCO PRODUCTS (MALAYSIA) SDN BHD 
+(GST REG NO: 000827654144) 
+LOT. 46, JALAN BRP 9/2, PUTRA INDUSTRIAL PARK,
+BUKIT RAHMAN PUTRA, 47000 SUNGAI BULOH, SELANGOR.
+TEL: 03-61567969  EMAIL: at.dzul@sonoco.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0018</clientId_inDB><clientAccNo>3000/T07</clientAccNo><clientAddress>TECHNICAL AVENUE SDN BHD (GST REG NO: 001192886272)
+NO. 18, JALAN BPU 9, BANDAR PUCHONG UTAMA, 
+47100 PUCHONG, SELANGOR.
+TEL: 03-58911918, 016-3331918   FAX: 03-58911919
+EMAIL: automation@technical-avenue.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0019</clientId_inDB><clientAccNo>3000/G05</clientAccNo><clientAddress>G-NIX TECHNOLOGIES SDN BHD (GST REG NO: 000624328704)
+NO. 9 &amp; 11, JALAN BP 6/7, BANDAR BUKIT PUCHONG, 
+47120 PUCHONG, SELANGOR.
+TEL: 03-80608215      FAX: 03-80608216</clientAddress><clientTerm>60 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0020</clientId_inDB><clientAccNo>3000/N11</clientAccNo><clientAddress>NEXT GREEN SOLUTIONS SDN BHD
+NO. 1-2, JALAN DAMAI NIAGA,
+ALAM DAMAI, 56000 CHERAS, KUALA LUMPUR.</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0021</clientId_inDB><clientAccNo>3000/A28</clientAccNo><clientAddress>AMERSIS TEKNOLOGI SDN BHD (GST REG NO: 000483033088)
+19-1 JALAN U1/37, 40150 GLENMARIE, SHAH ALAM, SELANGOR.
+TEL: 03-55694805  FAX: 03-55694806</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0022</clientId_inDB><clientAccNo>3000/P29</clientAccNo><clientAddress>POWER GAIN ELECTRIC 
+BLOK-A-1-26, KOMPLEKS SURIA KINRARA,
+PERSIARAN KINRARA SEK 3, TAMAN KINRARA, 47100 PUCHONG, SELANGOR.
+TEL: 03-80748932   EMAIL: powergain.electrical@gmail.com</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0023</clientId_inDB><clientAccNo>3000/K06</clientAccNo><clientAddress>KEMBOJA BAKTI
+NO. 18, JALAN PERMAI 3, TAMAN PERINDUSTRIAN PUCHONG PERMAI, 
+47100 PUCHONG, SELANGOR DARUL EHSAN.
+TEL: 03-80684419    FAX: 03-79549218  H/P: 017-3853776
+EMAIL: rbe38@hotmail.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0024</clientId_inDB><clientAccNo>3000/A27</clientAccNo><clientAddress>ASIAMACY SDN BHD (GST REG. NO: 001056976896)
+B-10-15, SERI TERATAI, LEBUHRAYA BUKIT JALIL,
+BANDAR PUCHONG JAYA, 47100 PUCHONG,
+SELANGOR.  TEL: 016-2080509   FAX: 03-80769527
+EMAIL: pangsan@asiamacy.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0025</clientId_inDB><clientAccNo>3000/S01</clientAccNo><clientAddress>SANKO DENKI (M) SDN BHD (GST REG NO: 001513160704)
+NO. 9, JALAN TS 6/4, TAMAN INDUSTRI SUBANG,
+47510 SUBANG JAYA, SELANGOR DARUL EHSAN.
+TEL: 03-56339560/56322348      FAX: 03-56357001</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0026</clientId_inDB><clientAccNo>3000/V11</clientAccNo><clientAddress>VECTOR INFOTECH S/B (GST REG NO: 001689387008)
+NO. 37, JALAN 4/93, TAMAN MIHARJA,
+OFF JALAN LOKE YEW, 55200 KUALA LUMPUR.
+TEL: 03-80623036   FAX: 03-80623059  
+EMAIL: gilbert@vectorinfotech.com</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0027</clientId_inDB><clientAccNo>3000/N02</clientAccNo><clientAddress>NEWERA RETREAD EQUIPMENT SDN BHD 
+(GST REG NO: 001637449728)
+NO. 12, JALAN ANGGERIK MOKARA 31/50, KOTA KEMUNING, 40460 SHAH ALAM, SELANGOR.
+TEL: 03-51216333   FAX: 03-51216222</clientAddress><clientTerm>CASH</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0028</clientId_inDB><clientAccNo>3000/I07</clientAccNo><clientAddress>IESB ENGINEERING SDN BHD (GST REG NO: 000779894784)
+19-2, JALAN USJ 21/10, 47600 SUBANG JAYA, 
+SELANGOR DARUL EHSAN.
+TEL: 03-80244973  FAX: 03-80249673
+EMAIL: yhlau68@gmail.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0029</clientId_inDB><clientAccNo>3000/K22</clientAccNo><clientAddress>KASTONE SDN. BHD. (GST REG NO: 000086138880)
+LOT. 6492, JALAN HAJI ABDUL MANAN, 
+OFF JALAN MERU, 41050 KLANG, SELANGOR D.E.
+TEL: 03-32910722      FAX: 03-32903463/69</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0030</clientId_inDB><clientAccNo>3000/N09</clientAccNo><clientAddress>NOVETEC INNOVATION SDN BHD (GST REG NO: 001373478912)
+A-5-10 EMPIRE TOWER SS16/1, 47500 SUBANG JAYA, SELANGOR.
+TEL: 03-512106610  FAX: 03-55252878
+EMAIL: khengjoo.ng@novetec.com.my</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0031</clientId_inDB><clientAccNo>3000/S29</clientAccNo><clientAddress>SUNNIK AUTOMATION SDN.BHD. (GST REG NO: 000051417088)
+578-H, SG. RASA, JALAN BATU TIGA LAMA,
+41300 KLANG, SELANGOR D.E.
+TEL: 03-33420781   FAX: 03-33420782
+EMAIL: sunnikeng@yahoo.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0032</clientId_inDB><clientAccNo>3000/K21</clientAccNo><clientAddress>KANAM LATEX INDUSTRIES PRIVATE LIMITED
+12/67C, ANANTHANDARKUDY, ASARIPALAM P.O. NAGERCOIL - 629201, KANYAKUMARI DISTRICT,TAMILNADU, INDIA.
+TEL: 0481-2560108, 2563513    FAX: 0481-2363614</clientAddress><clientTerm>ADVANCED T/T</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0033</clientId_inDB><clientAccNo>3000/L05</clientAccNo><clientAddress>LH INDUSTRIAL ENGINEERING SDN BHD (GST REG. NO: 000421363712)
+37, JALAN METRO PERDANA BARAT 7, SRI EDARAN INDUSTRIAL PARK, 52100 KEPONG, KUALA LUMPUR.
+TEL: 03-62578825    FAX: 03-62579825  EMAIL: lhiekk@gmail.com</clientAddress><clientTerm>60 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0034</clientId_inDB><clientAccNo>3000/L09</clientAccNo><clientAddress>LKY ENGINEERING SDN. BHD.
+NO. 9, JALAN BESI 1/1,
+KAWASAN PERINDUSTRIAN SUNGAI PURUN,
+43500 SEMENYIH, SELANGOR.
+TEL: 03-87255823    FAX: 03-87255823</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0035</clientId_inDB><clientAccNo>3000/M14</clientAccNo><clientAddress>MUHIBBAH STEEL INDUSTRIES SDN. BHD.
+LOT. 923 (29256) TELOK GONG, MUKIM KELANG, SELAT LUMUT, 42000 PELABUHAN KLANG, SELANGOR DARUL EHSAN.
+TEL: 03-31656266  FAX: 03-31652366</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0036</clientId_inDB><clientAccNo>3000/T21</clientAccNo><clientAddress>TFL ENGINEERING SDN. BHD. (GST REG. NO.: 000394137600)
+NO. 61-1-2, JALAN 1/18A, TAMAN MASTIARA,
+51200 KUALA LUMPUR.
+TEL: 03-61794548   FAX: 03-62592355</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0037</clientId_inDB><clientAccNo>3000/S37</clientAccNo><clientAddress>SUNRISE SYSTEM SOLUTION &amp; ENGINEERING SDN BHD 
+(GST NO. 001346248704)
+59 &amp; 61, JALAN PENDAMAR 27/90, HICOM IND. AREA, SEKSYEN 27, 40400 SHAH ALAM, SELANGOR.
+TEL: 03-51917112   FAX: 03-51929660 </clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0038</clientId_inDB><clientAccNo>3000/C99</clientAccNo><clientAddress>CASH SALES </clientAddress><clientTerm>CASH</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0039</clientId_inDB><clientAccNo>3000/K23</clientAccNo><clientAddress>KKH ENGINEERING &amp; FOUNDRY  SDN. BHD. (1096624-A)
+NO. 150, JALAN VILLARAYA 1/5, VILLARAYA INDUSTRIAL PARK 1, BATU 23, JALAN SUNGAI LALANG, 43500 SEMENYIH, SELANGOR.
+TEL: 03-87246913   FAX: 03-87245318  H/P: 016-2916516
+EMAIL: k28311@hotmail.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0040</clientId_inDB><clientAccNo>3000/S38</clientAccNo><clientAddress>SWIFTTECH AUTOMATION &amp; ENGINEERING SDN BHD (CO. NO: 1277557-V)
+A-1-1, JALAN KASTURI 2, TAMAN KASTURI,OFF JALAN BALAKONG BT. 11, CHERAS BARU 9, 43200 SELANGOR, MALAYSIA.
+TEL/FAX: 03-95450580</clientAddress><clientTerm>60 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0041</clientId_inDB><clientAccNo>3000/S39</clientAccNo><clientAddress>SOPHIC MSC SDN BHD (GST REG NO.: 001790738432)
+LOT 2-9, INNOVATION HOUSE TECHNOLOGY PARK
+MALAYSIA LEBUHRAYA PUCHONG-SG. BESI,
+57000 BUKIT JALIL, KUALA LUMPUR.
+TEL: 03-89941179/012-5127872    FAX: 04-2409288</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0042</clientId_inDB><clientAccNo>3000/F14</clientAccNo><clientAddress>FONG IN INDUSTRIES SDN. BHD. (GST REG. NO: 001707081728)
+NO. 9, LORONG SULTAN MOHAMED 25D, TAMAN PERINDUSTRIAN BANDAR SULTAN SULEIMEN, 42000 PELABUHAN KLANG, SELANGOR DARUL EHSAN.
+TEL: 03-38853003  FAX: 03-38850949   EMAIL: fiisb.ng@gmail.com</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0043</clientId_inDB><clientAccNo>3000/S40</clientAccNo><clientAddress>SYARIKAT SINMAH ELECTRICAL TRADING
+66, JALAN LAMBAK, 86000 KLUANG, JOHOR.
+TEL: 07-7714120  H/P: 012-7226218  EMAIL: sinmah88@gmail.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0044</clientId_inDB><clientAccNo>3000/L07</clientAccNo><clientAddress>LKH ENGINEERING WORKS
+NO.37, JALAN CEMPAKASARI 15, TAMAN CEMPAKASARI, BATU 14, JALAN KAPAR, 42100 KLANG, SELANGOR.
+FAX: 03-329112116   EMAIL: kimhock.lim@gmail.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0045</clientId_inDB><clientAccNo>3000/C09</clientAccNo><clientAddress>COMPASS INDUSTRIES SDN BHD
+NO. 2, JALAN BJ 6, TAMAN PERINDUSTRIAN BELMAS JOHAN, 48000 RAWANG, SELANGOR D.E.
+TEL: 03-60914622   FAX: 03-60934622</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0046</clientId_inDB><clientAccNo>3000/M04</clientAccNo><clientAddress>MULTICS TRADING 
+NO. 15, JALAN PU 9/2D, TAMAN PUCHONG UTAMA, 47100 PUCHONG, SELANGOR DARUL EHSAN.
+TEL: 03-80614916    FAX: 03-80621618  </clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0047</clientId_inDB><clientAccNo>3000/M23</clientAccNo><clientAddress>MODUPLAST INDUSTRIES (M) SDN BHD (1083968-A)
+NO. 22, JALAN TAWAK 33/24, SHAH ALAM TECHNOLOGY PARK, SEKSYEN 33, 40400 SHAH ALAM, SELANGOR DARUL EHSAN.
+TEL: 03-51218869/51248869   FAX: 03-51213869</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0048</clientId_inDB><clientAccNo>3000/S41</clientAccNo><clientAddress>SWITEK ENGINEERING SDN. BHD. (1042959-K) 
+NO. 11, JALAN ANGGERIK MOKARA 31/58, SEKSYEN 31, KOTA KEMUNING, 40460 SHAH ALAM, SELANGOR.
+TEL: 03-51311350   FAX: 03-51316775 </clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0049</clientId_inDB><clientAccNo>3000/Y09</clientAccNo><clientAddress>YAKIN JAYA ALUMINIUM &amp; GLASS SDN BHD
+NO. 14, JALAN PERINDUSTRIAN BALAKONG JAYA 2/3, TAMAN PERINDUSTRIAN BALAKONG JAYA 2, 43300 SERI KEMBANGAN, SELANGOR D.E.
+TEL: 03-89417721</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0050</clientId_inDB><clientAccNo>3000/S06</clientAccNo><clientAddress>S CONTROL ENGINEERING SDN BHD (GST REG. NO: 001279987712)
+NO. 3, JALAN TIAJ 2/9, TAMAN INDUSTRI ALAM JAYA,
+42300 BANDAR PUNCAK ALAM, SELANGOR D.E.
+TEL: 03-60386821    FAX: 03-60387821
+EMAIL: scontroleng@yahoo.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0051</clientId_inDB><clientAccNo>3000/M06</clientAccNo><clientAddress>MECDRIVE ENGINEERING &amp; TRADING 
+NO. 44-4-1, JALAN 2/101C, CHERAS BUSINESS CENTRE, BATU 5, JALAN CHERAS, 56100 KUALA LUMPUR. 
+TEL: 03-91323716     FAX: 03-91323718   
+EMAIL: mecdrive2009@hotmail.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0052</clientId_inDB><clientAccNo>3000/T22</clientAccNo><clientAddress>T RETREAD EQUIPMENT &amp; ELECTRICAL SERVICES
+34, JALAN ILHAM 25/53, TAMAN SERI MUDA, 40400 SHAH ALAM, SELANGOR.
+TEL: 012-2500114</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0053</clientId_inDB><clientAccNo>3000/A22</clientAccNo><clientAddress>A&amp;E SALES &amp; SERVICES SDN BHD (REG. NO: 1028247-T)
+32, JALAN BELIAN, TAMAN KEPONG BARU,
+51200 KUALA LUMPUR.
+TEL/FAX: 03-6231663  H/P: 019-2687663
+EMAIL ADDRESS: a.n.e@hotmail.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0054</clientId_inDB><clientAccNo>3000/S42</clientAccNo><clientAddress>SCG CONTROL SOLUTION SDN BHD (REG. NO: 725693-P)
+34, JALAN PUTERI 5/12, BANDAR PUTERI,
+47100 PUCHONG, SELANGOR.
+TEL: 03-80628880   FAX: 03-80628881
+EMAIL: nicholas@scgcontrol.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0055</clientId_inDB><clientAccNo>3000/D15</clientAccNo><clientAddress>DUALPOWER ENGINEERING SOLUTION SDN BHD (REG. NO: 1069813-A)
+NO. 37G, JALAN KEMUNING PRIMA C33/C,
+KEMUNING UTAMA, 40400 SHAH ALAM, SELANGOR D.E
+TEL: 03-58888898   FAX: 03-51317858</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0056</clientId_inDB><clientAccNo>3000/Y08</clientAccNo><clientAddress>YU LI CONTROLS SDN BHD (1058086-H)
+NO. 18, JALAN OASIS 2, TAMAN OASIS, CHERAS UTAMA, 
+56000 KUALA LUMPUR.
+TEL: 012-4887457   FAX: 03-91055457 
+EMAIL: hplee@yuli.com.my</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0057</clientId_inDB><clientAccNo>3000/E09</clientAccNo><clientAddress>EX TEAM SDN BHD (1257619-P)
+2F-14, IOI BUSINESS PARK, NO. 1, PERSIARAN PUCHONG JAYA SELATAN, BANDAR PUCHONG JAYA SELATAN, 47100 PUCHONG, SELANGOR.
+TEL: 03-80706751    FAX: 03-80761812  EMAIL: sales@exteamsb.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0058</clientId_inDB><clientAccNo>3000/A29</clientAccNo><clientAddress>ANIRES TECH SDN BHD (819715-V)
+2A-2, JALAN EQUINE 10D, TAMAN EQUINE, 43300 SERI KEMBANGAN, SELANGOR.
+TEL: 03-89581918/017-3833511   FAX: 03-89581916
+EMAIL: ckchuan@anirestech.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0059</clientId_inDB><clientAccNo>3000/S43</clientAccNo><clientAddress>SPECIAL HAZARDS PROTECTION SDN BHD (732399-M)
+32, JALAN PJS 11/14, BANDAR SUNWAY, 47500 SUBANG JAYA, SELANGOR.
+TEL: 03-55252599  EMAIL: timothy.kang@shp.my</clientAddress><clientTerm>C.O.D </clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0060</clientId_inDB><clientAccNo>3000/U03</clientAccNo><clientAddress>USG INTERIORS (FAR EAST) SDN. BHD. (131744-K)
+LOT. NO. 7, LEBUH HISHAMUDDIN 2, NORTH KLANG STRAITS, KAWASAN 20, 42000 PORT KLANG, SELANGOR DARUL EHSAN, MALAYSIA.
+TEL: 03-31761088/2099  FAX: 03-31761961   
+EMAIL: mohdnaim.abdulaziz@usgboral.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0061</clientId_inDB><clientAccNo>3000/K24</clientAccNo><clientAddress>KINETEC AUTOMATION (M) SDN. BHD. (424746-M)
+19, JALAN PUSAT BCH 1/3, BANDAR COUNTRY HOMES, 48000 RAWANG, SELANGOR DARUL EHSAN.
+TEL: 03-60933231 FAX: 03-60933239 
+EMAIL: kinetec@kinetec.com.my</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0062</clientId_inDB><clientAccNo>3000/A30</clientAccNo><clientAddress>ADOTECH RESOURCES SDN. BHD. (621889-K)
+NO. 23A - 1A, JALAN PANDAN CAHAYA 2/1, PANDAN CAHAYA, 68000 AMPANG, SELANGOR DARUL EHSAN.
+TEL: 03-42702272   FAX: 03-42703228  EMAIL: adotech@live.com.my
+H/P: 019-3446611</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0063</clientId_inDB><clientAccNo>3000/E10</clientAccNo><clientAddress>ETERNAL ADVERTISING AND MEDIA SDN. BHD. (1310085-U)
+25, JALAN PPU 2A, 
+TAMAN PERINDUSTRIAN PUCHONG UTAMA, 
+47100 PUCHONG, SELANGOR.
+</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0064</clientId_inDB><clientAccNo>3000/E08</clientAccNo><clientAddress>EASUN ENGINEERING SDN. BHD. (610032-T)
+(GST NO: 001346248704)
+59 &amp; 61, JALAN PENDAMAR 27/90, HICOM INDUSTRIAL AREA, SEKSYEN 27, 40400 SHAH ALAM, SELANGOR.
+TEL: 03-51917112  EMAIL: account@easun.com.my</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0065</clientId_inDB><clientAccNo>3000/T08</clientAccNo><clientAddress>TSL ENGINEERING &amp; TRADING
+NO. 215, JALAN BADANG, ZONE B, TAMAN CASTLEFIELD, SERI PETALING, 57000 KUALA LUMPUR.
+TEL: 03-90579549   FAX: 03-90579549</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0066</clientId_inDB><clientAccNo>3000/L</clientAccNo><clientAddress>LG PILING SDN. BHD. (830178-V)
+NO. 41, LORONG BENDAHARA 20A, TAMAN SENTOSA UTAMA, 41200 KLANG, SELANGOR DATUL EHSAN, MALAYSIA.
+TEL: 03-51618358 EMAIL: lgpilingsb@gmail.com</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0067</clientId_inDB><clientAccNo>3000/V04</clientAccNo><clientAddress>VITAL BEAUTY SDN. BHD.
+LOT NO. 5701, JALAN KTM, KAMPONG BALAKONG BARU, 43200 BALAKONG, SELANGOR DARUL EHSAN.
+Postal Address: P.O Box 45, Pos Seri Kembangan, 43300 Selangor.</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0068</clientId_inDB><clientAccNo>3000/P30</clientAccNo><clientAddress>PECOL ENGINEERING SDN BHD (REG GST NO: 001149280256)
+NO. 25, JALAN P4/6, BANDAR TEKNOLOGI KAJANG,
+43500 SEMENYIH, SELANGOR DARUL EHSAN.
+TEL: 03-87235329/30/31/48/41  FAX: 03-87235323  
+EMAIL: tankk@pecol.com.my</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0069</clientId_inDB><clientAccNo>3000/S44</clientAccNo><clientAddress>SiDEC AUTOMATION SDN. BHD. (GST NO.: 202001042029) REG. NO.: 1398350-D
+C-7-1, JALIL LINK 2, NO. 5, JALAN JALIL PERKASA 2, 57000 BUKIT JALIL, KUALA LUMPUR.
+TEL: 03-27338528   FAX: 03-27338519  EMAIL: sidec.sales@gmail.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0070</clientId_inDB><clientAccNo>3000/P31</clientAccNo><clientAddress>PLS VENTURA ENGINEERING SDN. BHD (1167078-M)
+NO. 3/25, JALAN PUCHONG UTAMA, PUCHONG, 47160 PUCHONG, SELANGOR DARUL EHSAN.
+TEL: 03-58797730  EMAIL: pslve88@gmail.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0071</clientId_inDB><clientAccNo>3000/R07</clientAccNo><clientAddress>RANKINE TECHNOLOGIES SDN. BHD.
+NO. 9 &amp; 11, JALAN BP 6/7, BANDAR BUKIT PUCHONG, 47120 PUCHONG, SELANGOR.
+TEL: 03-80608215   FAX: 03-80608216  </clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0072</clientId_inDB><clientAccNo>3000/V12</clientAccNo><clientAddress>VAULT ENGINEERING (001642533-U)
+NO. 76, LOT. 3182, BATU 7, JALAN KAPAR, 42200 KAPAR, SELANGOR DARUL EHSAN.
+TEL: 016-3226906  EMAIL: vaultengineering_09@yahoo.com</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0073</clientId_inDB><clientAccNo>3000/P32</clientAccNo><clientAddress>PALM-OLEO SDN. BHD. (REG. NO: 0185886-V)
+LOT. 1245, KUNDANG INDUSTRIAL ESTATE,
+48020 RAWANG, SELANGOR. (GATE B - AMIDE PLANT)
+TEL: 03-60341213 FAX: 03-60344800 EMAIL: hl.foo@klkoleo.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0074</clientId_inDB><clientAccNo>3000/A31</clientAccNo><clientAddress>AT ONE AUTOMATION SDN. BHD.(Reg. No: 202001026665 (1382985-U)
+16, JALAN DAMAI PERDANA 9/2F, BANDAR DAMAI PERDANA, 56000 CHERAS, KUALA LUMPUR.
+TEL: 03-28575525  FAX: 03-91057510 EMAIL: sales.at.one@gmail.com</clientAddress><clientTerm>60 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0075</clientId_inDB><clientAccNo>3000/P32</clientAccNo><clientAddress>PLUTO TECH SOLUTIONS &amp; SUPPLIES (002113222-T) GST NO.: 000131907584
+26-2B, BLOCK C, PRIMA BIZ HUB, JALAN TASIK PRIMA, 47150 PUCHONG, SELANGOR.
+TEL: 019-3992377  FAX: 03-80628877  EMAIL: pluto.tss@gmail.com</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0076</clientId_inDB><clientAccNo>3000/S45</clientAccNo><clientAddress>SCHNEIDER  ELECTRIC INDUSTRIES (M) SDN. BHD.
+LEVEL 19, TOWER B, PLAZA 33 UNIT TB-18-2 NO. 1, JALAN KEMAJUAN, SEKSYEN 13, 46200 PETALING JAYA, SELANGOR.
+TEL: 03-78336333</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0077</clientId_inDB><clientAccNo>3000/U05</clientAccNo><clientAddress>USJ ONE AVENUE MANAGEMENT CORPORATION 
+PERSIARAN MEWAH USJ 1, 47600 SUBANG JAYA, SELANGOR.
+TEL: 03-86052970   EMAIL: usjoneavenuejmb@yahoo.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0078</clientId_inDB><clientAccNo>3000/P19</clientAccNo><clientAddress>PRINTERS ADS SDN. BHD.
+NO. 33A, JALANB 11, SALAK SOUTH NEW VILLAGE, 57100 KUALA LUMPUR.
+TEL: 03-79811511  FAX: 03-79811585  Email: kian.voon@yahoo.com</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0079</clientId_inDB><clientAccNo>3000/W08</clientAccNo><clientAddress>WATERCO (FAR EAST) SDN. BHD. (14797-D)
+LOT. 832, JALAN KUSTA, KAWASAN PERINDUSTRIAN SB JAYA, 47000 SUNGAI BULOH, SELANGOR, MALAYSIA.
+TEL: 03-61456000  FAX: 03-61456003</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0080</clientId_inDB><clientAccNo>3000/S46</clientAccNo><clientAddress>SLP ELECTRICAL SUPPLIER
+7, JALAN BATAI LAUT 7, TAMAN INTAN, 41300 KLANG, SELANGOR.
+EMAIL: slpelectrical8@gmail.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0081</clientId_inDB><clientAccNo>3000/T24</clientAccNo><clientAddress>TIM SOLUTION MANAGEMENT SDN. BHD. (1305367W) 
+NO. 27, JALAN BUKIT INDAH, 2/15, TAMAN BUKIT INDAH AMPANG, 68000 SELANGOR.
+TEL &amp; FAX: 03-42951255 </clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0082</clientId_inDB><clientAccNo>3000/D16</clientAccNo><clientAddress>DYNAFLO SDN. BHD. (181629-A)
+17 &amp; 19, JALAN TP 7/3, SIME UEP INDUSTRIAL PARK, 40400 SHAH ALAM, SELANGOR DARUL EHSAN.
+TEL: 03-51926525    FAX: 03-51926522</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0083</clientId_inDB><clientAccNo>3000/Q01</clientAccNo><clientAddress>QL MARINE SDN. BHD. 
+CL045081687 KG. BOLONG 89200 TUARAN, SABAH.
+TEL: 088-791866/088-791833  FAX: 088-787166</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0084</clientId_inDB><clientAccNo>3000/F15</clientAccNo><clientAddress>FLEXTOP SYSTEM (M) SDN. BHD. (201001011252)
+LOT. 578-1, JALAN 32, KAWASAN 16, KAWASAN PERINDUSTRIAN SUNGAI RASA, 41300 KLANG, SELANGOR.
+TEL: 016-3979673</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0085</clientId_inDB><clientAccNo>3000/K03</clientAccNo><clientAddress>KOAKI ENTERPRISE SDN. BHD. (478182-W)
+NO. 17, JALAN SERULING 58, TAMAN KLANG JAYA, 41200 KLANG, SELANGOR DARUL EHSAN.
+TEL: 03-33263036   FAX: 03-33249464</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0086</clientId_inDB><clientAccNo>3000/K25</clientAccNo><clientAddress>KOLBUS TRADING MALAYSIA SDN. BHD. (199601005134)
+10-3, INFINITY TOWER KELANA JAYA, JALAN SS 6/3, 47301 PETALING JAYA, SELANGOR DARUL EHSAN.
+TEL: 03-78867864    FAX: 03-78867864  </clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0087</clientId_inDB><clientAccNo>3000/K20</clientAccNo><clientAddress>KIM TECH AUTOMATION SDN. BHD. (1118860K)
+NO. 47, JALAN TPP 1/16, TAMAN PERINDUSTRIAN PUCHONG, 47100 PUCHONG, SELANGOR.
+TEL: 03-80689393</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0088</clientId_inDB><clientAccNo>3000/F16</clientAccNo><clientAddress>FIREREX TECHNOLOGY SDN. BHD. (1228209-K)
+NO. 6B, JALAN GAMBUS 33/4, SEKSYEN 33, 40400 SHAH ALAM, SELANGOR, MALAYSIA.
+TEL: 03-55252599  FAX: 03-55255529</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0089</clientId_inDB><clientAccNo>3000/B14</clientAccNo><clientAddress>BESTRODE SDN. BHD.
+NO. 323, LOT. 2265, BLOCK 8, SMI IND PARK PH 4, M.T.K.D DEMAK LAUT, JALAN BAKO, 93050 KUCHING, SARAWAK, MALAYSIA.
+TEL: 082-439296  FAX: 082-439323  H/P:019-8558933
+EMAIL: sales@bestrode.com.my</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0090</clientId_inDB><clientAccNo>3000/J10</clientAccNo><clientAddress>J&amp;M TECHNOLOGY (M) SDN. BHD. (238754-M)
+5, JALAN TAMING, TAMING JAYA INDUSTRIAL PARK, 43300 BALAKONG, SELANGOR, MALAYSIA.
+TEL: 03-89616666   FAX: 03-89614909</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0091</clientId_inDB><clientAccNo>3000/R08</clientAccNo><clientAddress>RANCANG BIJAK SDN. BHD (509299-K)
+NO. 261-1, JALAN HARUAN 5/7, OAKLAND COMMERCIAL CENTER 2, 70300 SEREMBAN, NEGERI SEMBILAN DARUL KHUSUS.
+TEL &amp; FAX: 06-7202363   EMAIL: rancangbijak@yahoo.com</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0092</clientId_inDB><clientAccNo>3000/J11</clientAccNo><clientAddress>JDC RENOVATION (00342161-A)
+NO.101, VILLA LAMAN TASEK, BANDAR SRI PERMAISURI, JALAN 7/106, 56000 CHERAS, KUALA LUMPUR.
+H/P: 012-2146966   EMAIL: jones_leelc@yahoo.com</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0093</clientId_inDB><clientAccNo>3000/T25</clientAccNo><clientAddress>THE NEXT VENTURES (NS0282332-P)
+263A, REED LAKEFIELDS SUNGAI BESI,
+JALAN TASIK DAMAI, 57000 SUNGAI BESI, KUALA LUMPUR.
+TEL: 016-2034630</clientAddress><clientTerm>30 DAYS</clientTerm></clientDataDetails><clientDataDetails><clientId_inDB>0094</clientId_inDB><clientAccNo>3000/L10</clientAccNo><clientAddress>L &amp; T AUTOMATION SDN BHD (Co. No: 201601008675 (1179603-P)
+(SST CJ NO: B16-1809-22000401)
+NO. 27, JALAN TPP 5/7, TAMAN PERINDUSTRIAN PUCHONG, SEKSYEN 5, 47100 PUCHONG, SELANGOR D.E.
+TEL: 03-80527288  EMAIL: ltautomation2628@gmail.com</clientAddress><clientTerm>C.O.D</clientTerm></clientDataDetails></ArrayOfClientDataDetails>

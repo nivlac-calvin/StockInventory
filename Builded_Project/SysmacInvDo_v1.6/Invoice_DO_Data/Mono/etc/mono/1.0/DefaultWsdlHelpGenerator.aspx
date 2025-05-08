@@ -346,7 +346,7 @@ string GetTestResult ()
 	
 	try
 	{
-		string url = location + "/" + CurrentOperationName;
+		string url = location + "//" + CurrentOperationName;
 		Uri uri = new Uri (url);
 		WebRequest req;
 		if (CurrentOperationProtocols.IndexOf ("HttpGet") < 0) {

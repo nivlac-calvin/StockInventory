@@ -5,9 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/InvoiceDo.unity
-    guid: d6c40f2470058dd42a9e82e31e781a13
   - enabled: 1
     path: Assets/New_InvoiceDO.unity
     guid: 2e7a7ddbfa1eff94789ea3a6ad507064
+  m_configObjects: {}

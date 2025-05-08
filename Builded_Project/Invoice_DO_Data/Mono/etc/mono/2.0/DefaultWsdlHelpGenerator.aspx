@@ -374,7 +374,7 @@ string GetTestResultUrl ()
 	if (location == null) 
 		return "Could not locate web service";
 	
-	return location + "/" + CurrentOperationName;
+	return location + "//" + CurrentOperationName;
 }
 
 string GenerateOperationMessages (string protocol, bool generateInput)
