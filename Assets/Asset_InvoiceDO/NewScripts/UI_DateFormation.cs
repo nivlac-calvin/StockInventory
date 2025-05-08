@@ -76,7 +76,7 @@ public class UI_DateFormation : MonoBehaviour {
 
 	public void updateCurrentDateString(){
 		if(initialize_done == true)
-			currentDateString = dayDropDown.options [dayDropDown.value].text + "/" + monthDropDown.options [monthDropDown.value].text + "/" + yearDropDown.options [yearDropDown.value].text;
+			currentDateString = dayDropDown.options [dayDropDown.value].text + "//" + monthDropDown.options [monthDropDown.value].text + "//" + yearDropDown.options [yearDropDown.value].text;
 	
 	}
 }
